@@ -41,3 +41,26 @@ var reverse = function(x) {
   return result
 };
 ```
+
+
+去学习了正统写法以后...
+```javascript
+/**
+ * @param {number} x
+ * @return {number}
+ */
+var reverse = function(x) {
+  var INT_MIN = - (2**31),
+      INT_MAX = (2**31) - 1,
+      tempx = Math.abs(x),
+      result = 0
+  if(x === INT_MIN) return 0
+  while(tempx !== 0) {
+    // 在result溢出前作判断！！！
+    if(result > (INT_MAX - tempx %10) / 10) return 0
+    result = tempx % 10 + result * 10
+    tempx = parseInt(tempx / 10)
+  }
+  return x > 0 ? result : -result
+};
+```
