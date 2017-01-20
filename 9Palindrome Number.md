@@ -12,8 +12,9 @@ You could also try reversing an integer. However, if you have solved the problem
 There is a more generic way of solving this problem.
 
 
-wikipedia----->回文数是指一个像16461这样“对称”的数，即：将这个数的数字按相反的顺序重新排列后，所得到的数和原来的数一样。
+- wikipedia----->回文数是指一个像16461这样“对称”的数，即：将这个数的数字按相反的顺序重新排列后，所得到的数和原来的数一样。
 负数不是回文数？0是回文数？
+
 其实这个题跟Reverse Integer一样的...
 
 同·歪门邪道写法
