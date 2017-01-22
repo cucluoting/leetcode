@@ -5,8 +5,6 @@ Given a roman numeral, convert it to an integer.
 Input is guaranteed to be within the range from 1 to 3999.
 
 
-roman to integer 容易， integer to roman ...我还是不懂为什么14是`XIV`不是`IXV`...
-
 ```javascript
 /**
  * @param {string} s
