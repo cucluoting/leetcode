@@ -5,4 +5,6 @@ leetcode solutions
 
 ### 比较有意思的题
 
-- [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005Longest%20Palindromic%20Substring.md) (Manacher's Algorithm
+- [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005_LongestPalindromicSubstring.md) (Manacher's Algorithm
+
+- [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md)(递归
