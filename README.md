@@ -7,4 +7,4 @@ leetcode solutions
 
 - [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005_LongestPalindromicSubstring.md) (Manacher's Algorithm
 
-- [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md)(递归
+- [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md) (递归
