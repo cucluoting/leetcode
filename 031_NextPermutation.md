@@ -12,7 +12,8 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 `3,2,1 → 1,2,3`  
 `1,1,5 → 1,5,1`  
 
-- 知识点：全排列
+- 知识点：全排列  
+
 参考了Editorial Solution, 觉得按功能划分函数的思想特别好，便提取了`swap`和`rever`
 
 ```javascript
