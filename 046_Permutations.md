@@ -16,7 +16,7 @@ For example,
 ]
 ```
 
-友情链接：[CombinationSum](https://github.com/cucluoting/leetcode/blob/master/039_CombinationSum.md)
+友情链接：[CombinationSum](https://github.com/cucluoting/leetcode/blob/master/039_CombinationSum.md), [Next Permutation](https://github.com/cucluoting/leetcode/blob/master/031_NextPermutation.md)
 
 ```javascript
 /**
