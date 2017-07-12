@@ -23,19 +23,14 @@ Return:
 var groupAnagrams = function(strs) {
   var result = []
   var map = {}
-  for (var i = 0; i < strs.length; i++) {
-    var tempArr = strs[i].split('')
-    tempArr.sort()
-    var key = tempArr.join('')
-    if (!map[key]) {
-      map[key] = []
+  strs.forEach(function (str) {
+    var key = str.split('').sort().join('')
+    if (map[key] === undefined) {
+      map[key] = result.length
+      result[map[key]] = []
     }
-    map[key].push(strs[i])
-  }
-  for(var key in map) {
-    result.push(map[key])
-  }
+    result[map[key]].push(str)
+  })
   return result
 };
-
 ```
