@@ -36,10 +36,13 @@ var inorderTraversal = function(root) {
   while(root || tempArr.length > 0) {
     if (root) {
       tempArr.push(root)
+      // 左
       root = root.left
     } else {
       root = tempArr.pop()
+      // 中
       result.push(root.val)
+      // 右
       root = root.right
     }
   }
