@@ -54,6 +54,47 @@ After calling your function, the tree should look like:
  * @return {void} Do not return anything, modify tree in-place instead.
  */
 var connect = function(root) {
+  while (root) {
+
+    var p = root
+    var curr = null
+    var next = null
+    
+    while (p) {
+      if (p.left) {
+        if (curr) curr.next = p.left
+        curr = p.left
+      }
+      if (p.right) {
+        if (curr) curr.next = p.right
+        curr = p.right
+      }
+      // 初始化下一层的第一个节点，每层只执行一次
+      if (!next) next = p.left ? p.left : p.right
+      // 遍历next节点的字节点
+      p = p.next
+    }
+    // 将root指向下一层的第一个节点
+    root = next
+  }
+};
+
+```
+(⬇️不符合题意的解法
+```javascript
+/**
+ * Definition for binary tree with next pointer.
+ * function TreeLinkNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = this.next = null;
+ * }
+ */
+
+/**
+ * @param {TreeLinkNode} root
+ * @return {void} Do not return anything, modify tree in-place instead.
+ */
+var connect = function(root) {
   helper(root, [], 0)
 };
 
