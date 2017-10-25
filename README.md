@@ -30,4 +30,5 @@ leetcode solutions
 - [111. Minimum Depth of Binary Tree](https://github.com/cucluoting/leetcode/blob/master/111_MinimumDepthOfBinaryTree.md)
 - [112. Path Sum](https://github.com/cucluoting/leetcode/blob/master/112_PathSum.md)
 - [113. Path Sum II](https://github.com/cucluoting/leetcode/blob/master/113_PathSumII.md)
+- [131. Palindrome Partitioning](https://github.com/cucluoting/leetcode/blob/master/131_PalindromePartitioning.md)
 - [172. Factorial Trailing Zeroes](https://github.com/cucluoting/leetcode/blob/master/172_FactorialTrailingZeroes.md)
