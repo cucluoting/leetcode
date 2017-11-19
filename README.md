@@ -32,3 +32,6 @@ leetcode solutions
 - [113. Path Sum II](https://github.com/cucluoting/leetcode/blob/master/113_PathSumII.md)
 - [131. Palindrome Partitioning](https://github.com/cucluoting/leetcode/blob/master/131_PalindromePartitioning.md)
 - [172. Factorial Trailing Zeroes](https://github.com/cucluoting/leetcode/blob/master/172_FactorialTrailingZeroes.md)
+
+### 正则表达式应用
+- [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
