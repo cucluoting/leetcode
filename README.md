@@ -13,3 +13,6 @@ leetcode solutions
 
 ### HashMap
 - [1. Two Sum](https://github.com/cucluoting/leetcode/blob/master/001_TwoSum.md)
+
+### 链表
+- [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
