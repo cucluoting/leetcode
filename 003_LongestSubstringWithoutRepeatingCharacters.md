@@ -33,12 +33,18 @@ var lengthOfLongestSubstring = function(s) {
 
 - Sliding Window
 ```javascript
-var len = s.length
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function(s) {
+  var len = s.length
   var longestLength = 0, i = 0, j = 0
   var tempStr = ''
   while(i < len && j < len) {
     if(tempStr.indexOf(s[j]) < 0) {
       tempStr += s[j++]
+      // i为开始位置，j为结束位置
       longestLength = Math.max(j - i, longestLength)
     }else {
       tempStr = tempStr.substring(1)
@@ -46,4 +52,6 @@ var len = s.length
     }
   }
   return longestLength
+};
+
 ```
