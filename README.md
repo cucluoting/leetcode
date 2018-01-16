@@ -9,3 +9,7 @@ leetcode solutions
 
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
+
+
+### HashMap
+- [1. Two Sum](https://github.com/cucluoting/leetcode/blob/master/001_TwoSum.md)
