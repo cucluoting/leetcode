@@ -5,8 +5,10 @@ Given an array of **n** positive integers and a positive integer **s**, find the
 For example, given the array `[2,3,1,2,4,3]` and `s = 7`,
 the subarray `[4,3]` has the minimal length under the problem constraint.
 
-**More practice:**
+**More practice:**  
 If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).
+
+解题思路：构建一个窗口，使窗口内所有元素的和刚好大于等于s，不断移动窗口，更新窗口的最小长度。
 
 ```javascript
 /**
