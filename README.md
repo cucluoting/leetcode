@@ -20,5 +20,9 @@ leetcode solutions
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](https://github.com/cucluoting/leetcode/blob/master/003_LongestSubstringWithoutRepeatingCharacters.md)
 
+### 回文
+- [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005_LongestPalindromicSubstring.md)
+- [9. Palindrome Number](https://github.com/cucluoting/leetcode/blob/master/009_PalindromeNumber.md)
+
 ### 细节处理
 - [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
