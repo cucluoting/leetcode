@@ -19,3 +19,6 @@ leetcode solutions
 
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](https://github.com/cucluoting/leetcode/blob/master/003_LongestSubstringWithoutRepeatingCharacters.md)
+
+### 细节处理
+- [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
