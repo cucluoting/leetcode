@@ -22,6 +22,7 @@ var findKthLargest = function(nums, k) {
 
 var quickSort = function(nums, start, end) {
   if (start < end) {
+    // 一直分解数组直到数组不能再分解为之
     var p = partition(nums, start, end)
     quickSort(nums, start, p - 1)
     quickSort(nums, p + 1, end)
@@ -31,15 +32,21 @@ var quickSort = function(nums, start, end) {
 
 var partition = function(nums, start, end) {
   var high = start
+  // 随机从数组中选择一个元素
   var rand = Math.floor(Math.random() * (end - start)) + start
+  var x = nums[rand]
+  // 先将该元素放到最后，方便与其他元素做比较
   swap(nums, rand, end)
   for (var i = start; i < end; i++) {
-    if (nums[i] > nums[end]) {
+    if (nums[i] > x) {
+      // 将比x大的元素都放到数组的前面
       swap(nums, i, high)
       high++
     }
   }
+  // 使得比x大的元素都在x前面
   swap(nums, high, end)
+  // 将数组分成前面是比x大的元素，后面是比x小的元素
   return high
 };
 
