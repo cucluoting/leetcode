@@ -26,3 +26,6 @@ leetcode solutions
 
 ### 细节处理
 - [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
+
+### 快速排序法
+- [215. Kth Largest Element in an Array](https://github.com/cucluoting/leetcode/blob/master/215_KthLargestElementInAnArray.md)
