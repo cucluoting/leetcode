@@ -39,8 +39,8 @@ var combinationSum = function(candidates, target) {
 var helper = function(candidates, target, start, currentItem, result) {
   if (target < 0) return
   if (target === 0) {
-    // currentItem.slice(0)而不是currentItem（数组深拷贝
-    result.push(currentItem.slice(0))
+    // currentItem.slice(0)而不是currentItem（复制到一个新数组中
+    result.push(currentItem.slice(0))
     return
   }
   for (var i = start; i < candidates.length; i++) {
