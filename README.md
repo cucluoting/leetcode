@@ -29,3 +29,8 @@ leetcode solutions
 
 ### 快速排序法
 - [215. Kth Largest Element in an Array](https://github.com/cucluoting/leetcode/blob/master/215_KthLargestElementInAnArray.md)
+
+### Depth First Search
+- [39. Combination Sum](https://github.com/cucluoting/leetcode/blob/master/039_CombinationSum.md)
+- [40. Combination Sum II](https://github.com/cucluoting/leetcode/blob/master/040_CombinationSumII.md)
+- [216. Combination Sum III](https://github.com/cucluoting/leetcode/blob/master/216_CombinationSumIII.md)
