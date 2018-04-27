@@ -51,4 +51,11 @@ leetcode solutions
 
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
+- [16. 3Sum Closest](https://github.com/cucluoting/leetcode/blob/master/016_3SumClosest.md)
 - [18. 4Sum](https://github.com/cucluoting/leetcode/blob/master/018_4Sum.md)
+
+### 链表相关
+- [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
+
+### 栈相关
+- [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
