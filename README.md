@@ -7,6 +7,8 @@ leetcode solutions
 
 - [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md) (递归
 
+- [36. Valid Sudoku](https://github.com/cucluoting/leetcode/blob/master/036_ValidSudoku.md)
+
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
 
@@ -43,12 +45,18 @@ leetcode solutions
 ### 归并排序
 - [21. Merge Two Sorted Lists](https://github.com/cucluoting/leetcode/blob/master/021_MergeTwoSortedLists.md)
 
+### 查找
+- [33. Search in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/033_SearchInRotatedSortedArray.md)
+- [34. Search for a Range](https://github.com/cucluoting/leetcode/blob/master/034_SearchForARange.md)
+- [35. Search Insert Position](https://github.com/cucluoting/leetcode/blob/master/035_SearchInsertPosition.md)
+
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
 - [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
 - [13. Roman to Integer](https://github.com/cucluoting/leetcode/blob/master/013_RomanToInteger.md)
 - [14. Longest Common Prefix](https://github.com/cucluoting/leetcode/blob/master/014_LongestCommonPrefix.md)
 - [28. Implement strStr()](https://github.com/cucluoting/leetcode/blob/master/028_ImplementStrStr().md)
+- [38. Count and Say](https://github.com/cucluoting/leetcode/blob/master/038_CountAndSay.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
@@ -63,6 +71,7 @@ leetcode solutions
 - [18. 4Sum](https://github.com/cucluoting/leetcode/blob/master/018_4Sum.md)
 - [26. Remove Duplicates from Sorted Array](https://github.com/cucluoting/leetcode/blob/master/026_RemoveDuplicatesFromSortedArray.md)
 - [27. Remove Element](https://github.com/cucluoting/leetcode/blob/master/027_RemoveElement.md)
+- [31. Next Permutation](https://github.com/cucluoting/leetcode/blob/master/031_NextPermutation.md)(全排列相关
 
 ### 链表相关
 - [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
