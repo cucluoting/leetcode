@@ -32,6 +32,7 @@ leetcode solutions
 
 ### Depth First Search
 - [17. Letter Combinations of a Phone Number](https://github.com/cucluoting/leetcode/blob/master/017_LetterCombinationsOfAPhoneNumber.md)
+- [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md)
 - [39. Combination Sum](https://github.com/cucluoting/leetcode/blob/master/039_CombinationSum.md)
 - [40. Combination Sum II](https://github.com/cucluoting/leetcode/blob/master/040_CombinationSumII.md)
 - [216. Combination Sum III](https://github.com/cucluoting/leetcode/blob/master/216_CombinationSumIII.md)
@@ -39,23 +40,33 @@ leetcode solutions
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
 
+### 归并排序
+- [21. Merge Two Sorted Lists](https://github.com/cucluoting/leetcode/blob/master/021_MergeTwoSortedLists.md)
+
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
 - [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
 - [13. Roman to Integer](https://github.com/cucluoting/leetcode/blob/master/013_RomanToInteger.md)
 - [14. Longest Common Prefix](https://github.com/cucluoting/leetcode/blob/master/014_LongestCommonPrefix.md)
+- [28. Implement strStr()](https://github.com/cucluoting/leetcode/blob/master/028_ImplementStrStr().md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
 - [12. Integer to Roman](https://github.com/cucluoting/leetcode/blob/master/012_IntegerToRoman.md)
 
+### 位运算
+- [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
+
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
 - [16. 3Sum Closest](https://github.com/cucluoting/leetcode/blob/master/016_3SumClosest.md)
 - [18. 4Sum](https://github.com/cucluoting/leetcode/blob/master/018_4Sum.md)
+- [26. Remove Duplicates from Sorted Array](https://github.com/cucluoting/leetcode/blob/master/026_RemoveDuplicatesFromSortedArray.md)
+- [27. Remove Element](https://github.com/cucluoting/leetcode/blob/master/027_RemoveElement.md)
 
 ### 链表相关
 - [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
+- [24. Swap Nodes in Pairs](https://github.com/cucluoting/leetcode/blob/master/024_SwapNodesInPairs.md)
 
 ### 栈相关
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
