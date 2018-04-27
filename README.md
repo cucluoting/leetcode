@@ -50,6 +50,9 @@ leetcode solutions
 - [34. Search for a Range](https://github.com/cucluoting/leetcode/blob/master/034_SearchForARange.md)
 - [35. Search Insert Position](https://github.com/cucluoting/leetcode/blob/master/035_SearchInsertPosition.md)
 
+### 二分法
+- [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
+
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
 - [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
@@ -57,10 +60,12 @@ leetcode solutions
 - [14. Longest Common Prefix](https://github.com/cucluoting/leetcode/blob/master/014_LongestCommonPrefix.md)
 - [28. Implement strStr()](https://github.com/cucluoting/leetcode/blob/master/028_ImplementStrStr().md)
 - [38. Count and Say](https://github.com/cucluoting/leetcode/blob/master/038_CountAndSay.md)
+- [49. Group Anagrams](https://github.com/cucluoting/leetcode/blob/master/049_GroupAnagrams.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
 - [12. Integer to Roman](https://github.com/cucluoting/leetcode/blob/master/012_IntegerToRoman.md)
+- [43. Multiply Strings](https://github.com/cucluoting/leetcode/blob/master/043_MultiplyStrings.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
@@ -72,6 +77,9 @@ leetcode solutions
 - [26. Remove Duplicates from Sorted Array](https://github.com/cucluoting/leetcode/blob/master/026_RemoveDuplicatesFromSortedArray.md)
 - [27. Remove Element](https://github.com/cucluoting/leetcode/blob/master/027_RemoveElement.md)
 - [31. Next Permutation](https://github.com/cucluoting/leetcode/blob/master/031_NextPermutation.md)(全排列相关
+- [46. Permutations](https://github.com/cucluoting/leetcode/blob/master/046_Permutations.md)
+- [47. Permutations II](https://github.com/cucluoting/leetcode/blob/master/047_PermutationsII.md)
+- [48. Rotate Image](https://github.com/cucluoting/leetcode/blob/master/048_RotateImage.md)
 
 ### 链表相关
 - [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
