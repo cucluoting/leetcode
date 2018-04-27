@@ -35,3 +35,20 @@ leetcode solutions
 - [39. Combination Sum](https://github.com/cucluoting/leetcode/blob/master/039_CombinationSum.md)
 - [40. Combination Sum II](https://github.com/cucluoting/leetcode/blob/master/040_CombinationSumII.md)
 - [216. Combination Sum III](https://github.com/cucluoting/leetcode/blob/master/216_CombinationSumIII.md)
+
+### 贪心算法
+- [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
+
+### 字符串相关
+- [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
+- [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
+- [13. Roman to Integer](https://github.com/cucluoting/leetcode/blob/master/013_RomanToInteger.md)
+- [14. Longest Common Prefix](https://github.com/cucluoting/leetcode/blob/master/014_LongestCommonPrefix.md)
+
+### 数值相关
+- [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
+- [12. Integer to Roman](https://github.com/cucluoting/leetcode/blob/master/012_IntegerToRoman.md)
+
+### 数组相关
+- [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
+- [18. 4Sum](https://github.com/cucluoting/leetcode/blob/master/018_4Sum.md)
