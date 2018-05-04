@@ -16,9 +16,6 @@ leetcode solutions
 ### HashMap
 - [1. Two Sum](https://github.com/cucluoting/leetcode/blob/master/001_TwoSum.md)
 
-### 链表
-- [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
-
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](https://github.com/cucluoting/leetcode/blob/master/003_LongestSubstringWithoutRepeatingCharacters.md)
 
@@ -41,6 +38,9 @@ leetcode solutions
 
 ### 动态规划
 - [53. Maximum Subarray](https://github.com/cucluoting/leetcode/blob/master/053_MaximumSubarray.md)
+- [62. Unique Paths](https://github.com/cucluoting/leetcode/blob/master/062_UniquePaths.md)
+- [63. Unique Paths II](https://github.com/cucluoting/leetcode/blob/master/063_UniquePathsII.md)
+- [64. Minimum Path Sum](https://github.com/cucluoting/leetcode/blob/master/064_MinimumPathSum.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
@@ -56,6 +56,7 @@ leetcode solutions
 
 ### 二分法
 - [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
+- [69. Sqrt(x)](https://github.com/cucluoting/leetcode/blob/master/069_Sqrt(x).md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -66,6 +67,7 @@ leetcode solutions
 - [38. Count and Say](https://github.com/cucluoting/leetcode/blob/master/038_CountAndSay.md)
 - [49. Group Anagrams](https://github.com/cucluoting/leetcode/blob/master/049_GroupAnagrams.md)
 - [58. Length of Last Word](https://github.com/cucluoting/leetcode/blob/master/058_LengthOfLastWord.md)
+- [67. Add Binary](https://github.com/cucluoting/leetcode/blob/master/067_AddBinary.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
@@ -89,10 +91,14 @@ leetcode solutions
 - [54. Spiral Matrix](https://github.com/cucluoting/leetcode/blob/master/054_SpiralMatrix.md)
 - [59. Spiral Matrix II](https://github.com/cucluoting/leetcode/blob/master/059_SpiralMatrixII.md)
 - [56. Merge Intervals](https://github.com/cucluoting/leetcode/blob/master/056_MergeIntervals.md)
+- [66. Plus One](https://github.com/cucluoting/leetcode/blob/master/066_PlusOne.md)
+- [70. Climbing Stairs](https://github.com/cucluoting/leetcode/blob/master/070_ClimbingStairs.md)
 
 ### 链表相关
+- [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
 - [24. Swap Nodes in Pairs](https://github.com/cucluoting/leetcode/blob/master/024_SwapNodesInPairs.md)
+- [61. Rotate List](https://github.com/cucluoting/leetcode/blob/master/061_RotateList.md)
 
 ### 栈相关
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
