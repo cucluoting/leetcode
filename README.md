@@ -39,8 +39,12 @@ leetcode solutions
 - [40. Combination Sum II](https://github.com/cucluoting/leetcode/blob/master/040_CombinationSumII.md)
 - [216. Combination Sum III](https://github.com/cucluoting/leetcode/blob/master/216_CombinationSumIII.md)
 
+### 动态规划
+- [53. Maximum Subarray](https://github.com/cucluoting/leetcode/blob/master/053_MaximumSubarray.md)
+
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
+- [55. Jump Game](https://github.com/cucluoting/leetcode/blob/master/055_JumpGame.md)
 
 ### 归并排序
 - [21. Merge Two Sorted Lists](https://github.com/cucluoting/leetcode/blob/master/021_MergeTwoSortedLists.md)
@@ -61,6 +65,7 @@ leetcode solutions
 - [28. Implement strStr()](https://github.com/cucluoting/leetcode/blob/master/028_ImplementStrStr().md)
 - [38. Count and Say](https://github.com/cucluoting/leetcode/blob/master/038_CountAndSay.md)
 - [49. Group Anagrams](https://github.com/cucluoting/leetcode/blob/master/049_GroupAnagrams.md)
+- [58. Length of Last Word](https://github.com/cucluoting/leetcode/blob/master/058_LengthOfLastWord.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
@@ -79,7 +84,11 @@ leetcode solutions
 - [31. Next Permutation](https://github.com/cucluoting/leetcode/blob/master/031_NextPermutation.md)(全排列相关
 - [46. Permutations](https://github.com/cucluoting/leetcode/blob/master/046_Permutations.md)
 - [47. Permutations II](https://github.com/cucluoting/leetcode/blob/master/047_PermutationsII.md)
+- [60. Permutation Sequence](https://github.com/cucluoting/leetcode/blob/master/060_PermutationSequence.md)
 - [48. Rotate Image](https://github.com/cucluoting/leetcode/blob/master/048_RotateImage.md)
+- [54. Spiral Matrix](https://github.com/cucluoting/leetcode/blob/master/054_SpiralMatrix.md)
+- [59. Spiral Matrix II](https://github.com/cucluoting/leetcode/blob/master/059_SpiralMatrixII.md)
+- [56. Merge Intervals](https://github.com/cucluoting/leetcode/blob/master/056_MergeIntervals.md)
 
 ### 链表相关
 - [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
