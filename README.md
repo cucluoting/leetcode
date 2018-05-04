@@ -43,13 +43,16 @@ leetcode solutions
 - [216. Combination Sum III](https://github.com/cucluoting/leetcode/blob/master/216_CombinationSumIII.md)
 - [77. Combinations](https://github.com/cucluoting/leetcode/blob/master/077_Combinations.md)
 - [78. Subsets](https://github.com/cucluoting/leetcode/blob/master/078_Subsets.md)
+- [90. Subsets II](https://github.com/cucluoting/leetcode/blob/master/090_SubsetsII.md)
 - [79. Word Search](https://github.com/cucluoting/leetcode/blob/master/079_WordSearch.md)
+- [93. Restore IP Addresses](https://github.com/cucluoting/leetcode/blob/master/093_RestoreIPAddresses.md)
 
 ### 动态规划
 - [53. Maximum Subarray](https://github.com/cucluoting/leetcode/blob/master/053_MaximumSubarray.md)
 - [62. Unique Paths](https://github.com/cucluoting/leetcode/blob/master/062_UniquePaths.md)
 - [63. Unique Paths II](https://github.com/cucluoting/leetcode/blob/master/063_UniquePathsII.md)
 - [64. Minimum Path Sum](https://github.com/cucluoting/leetcode/blob/master/064_MinimumPathSum.md)
+- [91. Decode Ways](https://github.com/cucluoting/leetcode/blob/master/091_DecodeWays.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
@@ -64,6 +67,14 @@ leetcode solutions
 ### 二分法
 - [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
 - [69. Sqrt(x)](https://github.com/cucluoting/leetcode/blob/master/069_Sqrt(x).md)
+- [81. Search in Rotated Sorted Array II](https://github.com/cucluoting/leetcode/blob/master/081_SearchInRotatedSortedArrayII.md)
+
+### 二叉树
+- [94. Binary Tree Inorder Traversal](https://github.com/cucluoting/leetcode/blob/master/094_BinaryTreeInorderTraversal.md)
+- [95. Unique Binary Search Trees II](https://github.com/cucluoting/leetcode/blob/master/095_UniqueBinarySearchTreesII.md)
+- [96. Unique Binary Search Trees](https://github.com/cucluoting/leetcode/blob/master/096_UniqueBinarySearchTrees.md)
+- [98. Validate Binary Search Tree](https://github.com/cucluoting/leetcode/blob/master/098_ValidateBinarySearchTree.md)
+- [100. Same Tree](https://github.com/cucluoting/leetcode/blob/master/100_SameTree.md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -84,6 +95,8 @@ leetcode solutions
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
+- [89. Gray Code](https://github.com/cucluoting/leetcode/blob/master/089_GrayCode.md)
+
 
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
@@ -103,12 +116,17 @@ leetcode solutions
 - [70. Climbing Stairs](https://github.com/cucluoting/leetcode/blob/master/070_ClimbingStairs.md)
 - [73. Set Matrix Zeroes](https://github.com/cucluoting/leetcode/blob/master/073_SetMatrixZeroes.md)
 - [80. Remove Duplicates from Sorted Array II](https://github.com/cucluoting/leetcode/blob/master/080_RemoveDuplicatesFromSortedArrayII.md)
+- [88. Merge Sorted Array](https://github.com/cucluoting/leetcode/blob/master/088_MergeSortedArray.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
 - [19. Remove Nth Node From End of List](https://github.com/cucluoting/leetcode/blob/master/019_RemoveNthNodeFromEndOfList.md)
 - [24. Swap Nodes in Pairs](https://github.com/cucluoting/leetcode/blob/master/024_SwapNodesInPairs.md)
 - [61. Rotate List](https://github.com/cucluoting/leetcode/blob/master/061_RotateList.md)
+- [82. Remove Duplicates from Sorted List II](https://github.com/cucluoting/leetcode/blob/master/082_RemoveDuplicatesFromSortedListII.md)
+- [83. Remove Duplicates from Sorted List](https://github.com/cucluoting/leetcode/blob/master/083_RemoveDuplicatesFromSortedList.md)
+- [86. Partition List](https://github.com/cucluoting/leetcode/blob/master/086_PartitionList.md)
+- [92. Reverse Linked List II](https://github.com/cucluoting/leetcode/blob/master/092_ReverseLinkedListII.md)
 
 ### 栈相关
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
