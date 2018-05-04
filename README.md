@@ -29,12 +29,21 @@ leetcode solutions
 ### 快速排序法
 - [215. Kth Largest Element in an Array](https://github.com/cucluoting/leetcode/blob/master/215_KthLargestElementInAnArray.md)
 
+### 归并排序
+- [21. Merge Two Sorted Lists](https://github.com/cucluoting/leetcode/blob/master/021_MergeTwoSortedLists.md)
+
+### 排序
+- [75. Sort Colors](https://github.com/cucluoting/leetcode/blob/master/075_SortColors.md)
+
 ### Depth First Search
 - [17. Letter Combinations of a Phone Number](https://github.com/cucluoting/leetcode/blob/master/017_LetterCombinationsOfAPhoneNumber.md)
 - [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md)
 - [39. Combination Sum](https://github.com/cucluoting/leetcode/blob/master/039_CombinationSum.md)
 - [40. Combination Sum II](https://github.com/cucluoting/leetcode/blob/master/040_CombinationSumII.md)
 - [216. Combination Sum III](https://github.com/cucluoting/leetcode/blob/master/216_CombinationSumIII.md)
+- [77. Combinations](https://github.com/cucluoting/leetcode/blob/master/077_Combinations.md)
+- [78. Subsets](https://github.com/cucluoting/leetcode/blob/master/078_Subsets.md)
+- [79. Word Search](https://github.com/cucluoting/leetcode/blob/master/079_WordSearch.md)
 
 ### 动态规划
 - [53. Maximum Subarray](https://github.com/cucluoting/leetcode/blob/master/053_MaximumSubarray.md)
@@ -46,13 +55,11 @@ leetcode solutions
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
 - [55. Jump Game](https://github.com/cucluoting/leetcode/blob/master/055_JumpGame.md)
 
-### 归并排序
-- [21. Merge Two Sorted Lists](https://github.com/cucluoting/leetcode/blob/master/021_MergeTwoSortedLists.md)
-
 ### 查找
 - [33. Search in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/033_SearchInRotatedSortedArray.md)
 - [34. Search for a Range](https://github.com/cucluoting/leetcode/blob/master/034_SearchForARange.md)
 - [35. Search Insert Position](https://github.com/cucluoting/leetcode/blob/master/035_SearchInsertPosition.md)
+- [74. Search a 2D Matrix](https://github.com/cucluoting/leetcode/blob/master/074_SearchA2DMatrix.md)
 
 ### 二分法
 - [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
@@ -68,6 +75,7 @@ leetcode solutions
 - [49. Group Anagrams](https://github.com/cucluoting/leetcode/blob/master/049_GroupAnagrams.md)
 - [58. Length of Last Word](https://github.com/cucluoting/leetcode/blob/master/058_LengthOfLastWord.md)
 - [67. Add Binary](https://github.com/cucluoting/leetcode/blob/master/067_AddBinary.md)
+- [71. Simplify Path](https://github.com/cucluoting/leetcode/blob/master/071_SimplifyPath.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
@@ -93,6 +101,8 @@ leetcode solutions
 - [56. Merge Intervals](https://github.com/cucluoting/leetcode/blob/master/056_MergeIntervals.md)
 - [66. Plus One](https://github.com/cucluoting/leetcode/blob/master/066_PlusOne.md)
 - [70. Climbing Stairs](https://github.com/cucluoting/leetcode/blob/master/070_ClimbingStairs.md)
+- [73. Set Matrix Zeroes](https://github.com/cucluoting/leetcode/blob/master/073_SetMatrixZeroes.md)
+- [80. Remove Duplicates from Sorted Array II](https://github.com/cucluoting/leetcode/blob/master/080_RemoveDuplicatesFromSortedArrayII.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
