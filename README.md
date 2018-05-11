@@ -47,6 +47,9 @@ leetcode solutions
 - [79. Word Search](https://github.com/cucluoting/leetcode/blob/master/079_WordSearch.md)
 - [93. Restore IP Addresses](https://github.com/cucluoting/leetcode/blob/master/093_RestoreIPAddresses.md)
 
+### Breadth First Search
+- [130. Surrounded Regions](https://github.com/cucluoting/leetcode/blob/master/130_SurroundedRegions.md)
+
 ### 动态规划
 - [53. Maximum Subarray](https://github.com/cucluoting/leetcode/blob/master/053_MaximumSubarray.md)
 - [62. Unique Paths](https://github.com/cucluoting/leetcode/blob/master/062_UniquePaths.md)
@@ -58,6 +61,8 @@ leetcode solutions
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
 - [55. Jump Game](https://github.com/cucluoting/leetcode/blob/master/055_JumpGame.md)
+- [121. Best Time to Buy and Sell Stock](https://github.com/cucluoting/leetcode/blob/master/121_BestTimeToBuyAndSellStock.md)
+- [122. Best Time to Buy and Sell Stock II](https://github.com/cucluoting/leetcode/blob/master/122_BestTimeToBuyAndSellStockII.md)
 
 ### 查找
 - [33. Search in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/033_SearchInRotatedSortedArray.md)
@@ -92,6 +97,7 @@ leetcode solutions
 - [114. Flatten Binary Tree to Linked List](https://github.com/cucluoting/leetcode/blob/master/114_FlattenBinaryTreeToLinkedList.md)
 - [116. Populating Next Right Pointers in Each Node](https://github.com/cucluoting/leetcode/blob/master/116_PopulatingNextRightPointersInEachNode.md)
 - [117. Populating Next Right Pointers in Each Node II](https://github.com/cucluoting/leetcode/blob/master/117_Populating_Next_Right_Pointers_InEachNodeII.md)
+- [129. Sum Root to Leaf Numbers](https://github.com/cucluoting/leetcode/blob/master/129_SumRootToLeafNumbers.md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -104,6 +110,7 @@ leetcode solutions
 - [58. Length of Last Word](https://github.com/cucluoting/leetcode/blob/master/058_LengthOfLastWord.md)
 - [67. Add Binary](https://github.com/cucluoting/leetcode/blob/master/067_AddBinary.md)
 - [71. Simplify Path](https://github.com/cucluoting/leetcode/blob/master/071_SimplifyPath.md)
+- [125. Valid Palindrome](https://github.com/cucluoting/leetcode/blob/master/125_ValidPalindrome.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
