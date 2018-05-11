@@ -13,9 +13,8 @@ var maxProfit = function(prices) {
   if(prices.length < 2) return 0
   var profit = 0
   for(var i = 0, len = prices.length; i < len - 1; i++) {
-    if(prices[i + 1] > prices[i]) {
-      profit += prices[i + 1] - prices[i]
-    }
+    var diff = prices[i + 1] - prices[i]
+    if(diff > 0) profit += diff
   }
   return profit
 };
