@@ -53,6 +53,7 @@ leetcode solutions
 - [63. Unique Paths II](https://github.com/cucluoting/leetcode/blob/master/063_UniquePathsII.md)
 - [64. Minimum Path Sum](https://github.com/cucluoting/leetcode/blob/master/064_MinimumPathSum.md)
 - [91. Decode Ways](https://github.com/cucluoting/leetcode/blob/master/091_DecodeWays.md)
+- [120. Triangle](https://github.com/cucluoting/leetcode/blob/master/120_Triangle.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
@@ -86,6 +87,11 @@ leetcode solutions
 - [109. Convert Sorted List to Binary Search Tree](https://github.com/cucluoting/leetcode/blob/master/109_ConvertSortedListToBinarySearchTree.md)
 - [110. Balanced Binary Tree](https://github.com/cucluoting/leetcode/blob/master/110_BalancedBinaryTree.md)
 - [111. Minimum Depth of Binary Tree](https://github.com/cucluoting/leetcode/blob/master/111_MinimumDepthOfBinaryTree.md)
+- [112. Path Sum](https://github.com/cucluoting/leetcode/blob/master/112_PathSum.md)
+- [113. Path Sum II](https://github.com/cucluoting/leetcode/blob/master/113_PathSumII.md)
+- [114. Flatten Binary Tree to Linked List](https://github.com/cucluoting/leetcode/blob/master/114_FlattenBinaryTreeToLinkedList.md)
+- [116. Populating Next Right Pointers in Each Node](https://github.com/cucluoting/leetcode/blob/master/116_PopulatingNextRightPointersInEachNode.md)
+- [117. Populating Next Right Pointers in Each Node II](https://github.com/cucluoting/leetcode/blob/master/117_Populating_Next_Right_Pointers_InEachNodeII.md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -128,6 +134,8 @@ leetcode solutions
 - [73. Set Matrix Zeroes](https://github.com/cucluoting/leetcode/blob/master/073_SetMatrixZeroes.md)
 - [80. Remove Duplicates from Sorted Array II](https://github.com/cucluoting/leetcode/blob/master/080_RemoveDuplicatesFromSortedArrayII.md)
 - [88. Merge Sorted Array](https://github.com/cucluoting/leetcode/blob/master/088_MergeSortedArray.md)
+- [118. Pascal's Triangle](https://github.com/cucluoting/leetcode/blob/master/118_Pascal'sTriangle.md)
+- [119. Pascal's Triangle II](https://github.com/cucluoting/leetcode/blob/master/119_Pascal'sTriangleII.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
