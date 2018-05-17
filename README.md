@@ -12,6 +12,7 @@ leetcode solutions
 
 ### HashMap
 - [1. Two Sum](https://github.com/cucluoting/leetcode/blob/master/001_TwoSum.md)
+- [187. Repeated DNA Sequences](https://github.com/cucluoting/leetcode/blob/master/187_RepeatedDNASequences.md)
 
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](https://github.com/cucluoting/leetcode/blob/master/003_LongestSubstringWithoutRepeatingCharacters.md)
@@ -57,6 +58,7 @@ leetcode solutions
 - [91. Decode Ways](https://github.com/cucluoting/leetcode/blob/master/091_DecodeWays.md)
 - [120. Triangle](https://github.com/cucluoting/leetcode/blob/master/120_Triangle.md)
 - [152. Maximum Product Subarray](https://github.com/cucluoting/leetcode/blob/master/152_MaximumProductSubarray.md)
+- [198. House Robber](https://github.com/cucluoting/leetcode/blob/master/198_HouseRobber.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
@@ -101,6 +103,7 @@ leetcode solutions
 - [117. Populating Next Right Pointers in Each Node II](https://github.com/cucluoting/leetcode/blob/master/117_Populating_Next_Right_Pointers_InEachNodeII.md)
 - [129. Sum Root to Leaf Numbers](https://github.com/cucluoting/leetcode/blob/master/129_SumRootToLeafNumbers.md)
 - [144. Binary Tree Preorder Traversal](https://github.com/cucluoting/leetcode/blob/master/144_BinaryTreePreorderTraversal.md)
+- [199. Binary Tree Right Side View](https://github.com/cucluoting/leetcode/blob/master/199_BinaryTreeRightSideView.md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -121,12 +124,15 @@ leetcode solutions
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
 - [12. Integer to Roman](https://github.com/cucluoting/leetcode/blob/master/012_IntegerToRoman.md)
 - [43. Multiply Strings](https://github.com/cucluoting/leetcode/blob/master/043_MultiplyStrings.md)
+- [172. Factorial Trailing Zeroes](https://github.com/cucluoting/leetcode/blob/master/172_FactorialTrailingZeroes.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
 - [89. Gray Code](https://github.com/cucluoting/leetcode/blob/master/089_GrayCode.md)
 - [136. Single Number](https://github.com/cucluoting/leetcode/blob/master/136_SingleNumber.md)
 - [137. Single Number II](https://github.com/cucluoting/leetcode/blob/master/137_SingleNumberII.md)
+- [190. Reverse Bits](https://github.com/cucluoting/leetcode/blob/master/190_ReverseBits.md)
+- [191. Number of 1 Bits](https://github.com/cucluoting/leetcode/blob/master/191_NumberOf1Bits.md)
 
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
@@ -152,6 +158,8 @@ leetcode solutions
 - [134. Gas Station](https://github.com/cucluoting/leetcode/blob/master/134_GasStation.md)
 - [167. Two Sum II - Input array is sorted](https://github.com/cucluoting/leetcode/blob/master/167_TwoSumII-InputArrayIsSorted.md)
 - [169. Majority Element](https://github.com/cucluoting/leetcode/blob/master/169_MajorityElement.md)
+- [189. Rotate Array](https://github.com/cucluoting/leetcode/blob/master/189_RotateArray.md)
+- [200. Number of Islands](https://github.com/cucluoting/leetcode/blob/master/200_NumberOfIslands.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
@@ -177,3 +185,5 @@ leetcode solutions
 
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
+- [171. Excel Sheet Column Number](https://github.com/cucluoting/leetcode/blob/master/171_ExcelSheetColumnNumber.md)
+- [179. Largest Number](https://github.com/cucluoting/leetcode/blob/master/179_LargestNumber.md)
