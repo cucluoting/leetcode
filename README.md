@@ -6,6 +6,9 @@ leetcode solutions
 - [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md) (递归
 - [36. Valid Sudoku](https://github.com/cucluoting/leetcode/blob/master/036_ValidSudoku.md)
 - [166. Fraction to Recurring Decimal](https://github.com/cucluoting/leetcode/blob/master/166_FractionToRecurringDecimal.md)
+- [202. Happy Number](https://github.com/cucluoting/leetcode/blob/master/202_HappyNumber.md)
+- [207. Course Schedule](https://github.com/cucluoting/leetcode/blob/master/207_CourseSchedule.md)（拓扑排序
+- [210. Course Schedule II](https://github.com/cucluoting/leetcode/blob/master/210_CourseScheduleII.md)
 
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
@@ -13,9 +16,11 @@ leetcode solutions
 ### HashMap
 - [1. Two Sum](https://github.com/cucluoting/leetcode/blob/master/001_TwoSum.md)
 - [187. Repeated DNA Sequences](https://github.com/cucluoting/leetcode/blob/master/187_RepeatedDNASequences.md)
+- [205. Isomorphic Strings](https://github.com/cucluoting/leetcode/blob/master/205_IsomorphicStrings.md)
 
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](https://github.com/cucluoting/leetcode/blob/master/003_LongestSubstringWithoutRepeatingCharacters.md)
+- [209. Minimum Size Subarray Sum](https://github.com/cucluoting/leetcode/blob/master/209_MinimumSizeSubarraySum.md)
 
 ### 回文
 - [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005_LongestPalindromicSubstring.md)
@@ -59,6 +64,8 @@ leetcode solutions
 - [120. Triangle](https://github.com/cucluoting/leetcode/blob/master/120_Triangle.md)
 - [152. Maximum Product Subarray](https://github.com/cucluoting/leetcode/blob/master/152_MaximumProductSubarray.md)
 - [198. House Robber](https://github.com/cucluoting/leetcode/blob/master/198_HouseRobber.md)
+- [213. House Robber II](https://github.com/cucluoting/leetcode/blob/master/213_HouseRobberII.md)
+- [221. Maximal Square](https://github.com/cucluoting/leetcode/blob/master/221_MaximalSquare.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
@@ -104,6 +111,10 @@ leetcode solutions
 - [129. Sum Root to Leaf Numbers](https://github.com/cucluoting/leetcode/blob/master/129_SumRootToLeafNumbers.md)
 - [144. Binary Tree Preorder Traversal](https://github.com/cucluoting/leetcode/blob/master/144_BinaryTreePreorderTraversal.md)
 - [199. Binary Tree Right Side View](https://github.com/cucluoting/leetcode/blob/master/199_BinaryTreeRightSideView.md)
+- [222. Count Complete Tree Nodes](https://github.com/cucluoting/leetcode/blob/master/222_CountCompleteTreeNodes.md)
+
+### Prefix Tree
+- [208. Implement Trie (Prefix Tree)](https://github.com/cucluoting/leetcode/blob/master/208_Implement_Trie(Prefix_Tree).md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -125,6 +136,7 @@ leetcode solutions
 - [12. Integer to Roman](https://github.com/cucluoting/leetcode/blob/master/012_IntegerToRoman.md)
 - [43. Multiply Strings](https://github.com/cucluoting/leetcode/blob/master/043_MultiplyStrings.md)
 - [172. Factorial Trailing Zeroes](https://github.com/cucluoting/leetcode/blob/master/172_FactorialTrailingZeroes.md)
+- [204. Count Primes](https://github.com/cucluoting/leetcode/blob/master/204_CountPrimes.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
@@ -133,6 +145,7 @@ leetcode solutions
 - [137. Single Number II](https://github.com/cucluoting/leetcode/blob/master/137_SingleNumberII.md)
 - [190. Reverse Bits](https://github.com/cucluoting/leetcode/blob/master/190_ReverseBits.md)
 - [191. Number of 1 Bits](https://github.com/cucluoting/leetcode/blob/master/191_NumberOf1Bits.md)
+- [201. Bitwise AND of Numbers Range](https://github.com/cucluoting/leetcode/blob/master/201_BitwiseANDOfNumbersRange.md)
 
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
@@ -160,6 +173,9 @@ leetcode solutions
 - [169. Majority Element](https://github.com/cucluoting/leetcode/blob/master/169_MajorityElement.md)
 - [189. Rotate Array](https://github.com/cucluoting/leetcode/blob/master/189_RotateArray.md)
 - [200. Number of Islands](https://github.com/cucluoting/leetcode/blob/master/200_NumberOfIslands.md)
+- [217. Contains Duplicate](https://github.com/cucluoting/leetcode/blob/master/217_ContainsDuplicate.md)
+- [219. Contains Duplicate II](https://github.com/cucluoting/leetcode/blob/master/219_ContainsDuplicateII.md)
+- [220. Contains Duplicate III](https://github.com/cucluoting/leetcode/blob/master/220_ContainsDuplicateIII.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
@@ -177,6 +193,8 @@ leetcode solutions
 - [147. Insertion Sort List](https://github.com/cucluoting/leetcode/blob/master/147_InsertionSortList.md)
 - [148. Sort List](https://github.com/cucluoting/leetcode/blob/master/148_SortList.md)
 - [160. Intersection of Two Linked Lists](https://github.com/cucluoting/leetcode/blob/master/160_IntersectionOfTwoLinkedLists.md)
+- [203. Remove Linked List Elements](https://github.com/cucluoting/leetcode/blob/master/203_RemoveLinkedListElements.md)
+- [206. Reverse Linked List](https://github.com/cucluoting/leetcode/blob/master/206_ReverseLinkedList.md)
 
 ### 栈相关
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
