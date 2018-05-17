@@ -59,6 +59,7 @@ leetcode solutions
 - [64. Minimum Path Sum](https://github.com/cucluoting/leetcode/blob/master/064_MinimumPathSum.md)
 - [91. Decode Ways](https://github.com/cucluoting/leetcode/blob/master/091_DecodeWays.md)
 - [120. Triangle](https://github.com/cucluoting/leetcode/blob/master/120_Triangle.md)
+- [152. Maximum Product Subarray](https://github.com/cucluoting/leetcode/blob/master/152_MaximumProductSubarray.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
@@ -71,6 +72,7 @@ leetcode solutions
 - [34. Search for a Range](https://github.com/cucluoting/leetcode/blob/master/034_SearchForARange.md)
 - [35. Search Insert Position](https://github.com/cucluoting/leetcode/blob/master/035_SearchInsertPosition.md)
 - [74. Search a 2D Matrix](https://github.com/cucluoting/leetcode/blob/master/074_SearchA2DMatrix.md)
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/153_FindMinimumInRotatedSortedArray.md)
 
 ### 二分法
 - [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
@@ -100,6 +102,7 @@ leetcode solutions
 - [116. Populating Next Right Pointers in Each Node](https://github.com/cucluoting/leetcode/blob/master/116_PopulatingNextRightPointersInEachNode.md)
 - [117. Populating Next Right Pointers in Each Node II](https://github.com/cucluoting/leetcode/blob/master/117_Populating_Next_Right_Pointers_InEachNodeII.md)
 - [129. Sum Root to Leaf Numbers](https://github.com/cucluoting/leetcode/blob/master/129_SumRootToLeafNumbers.md)
+- [144. Binary Tree Preorder Traversal](https://github.com/cucluoting/leetcode/blob/master/144_BinaryTreePreorderTraversal.md)
 
 ### 字符串相关
 - [6. ZigZag Conversion](https://github.com/cucluoting/leetcode/blob/master/006_ZigZagConversion.md)
@@ -113,6 +116,7 @@ leetcode solutions
 - [67. Add Binary](https://github.com/cucluoting/leetcode/blob/master/067_AddBinary.md)
 - [71. Simplify Path](https://github.com/cucluoting/leetcode/blob/master/071_SimplifyPath.md)
 - [125. Valid Palindrome](https://github.com/cucluoting/leetcode/blob/master/125_ValidPalindrome.md)
+- [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
@@ -158,6 +162,14 @@ leetcode solutions
 - [86. Partition List](https://github.com/cucluoting/leetcode/blob/master/086_PartitionList.md)
 - [92. Reverse Linked List II](https://github.com/cucluoting/leetcode/blob/master/092_ReverseLinkedListII.md)
 - [138. Copy List with Random Pointer](https://github.com/cucluoting/leetcode/blob/master/138_CopyListWithRandomPointer.md)
+- [141. Linked List Cycle](https://github.com/cucluoting/leetcode/blob/master/141_LinkedListCycle.md)
+- [142. Linked List Cycle II](https://github.com/cucluoting/leetcode/blob/master/142_LinkedListCycleII.md)
+- [143. Reorder List](https://github.com/cucluoting/leetcode/blob/master/143_ReorderList.md)
+- [147. Insertion Sort List](https://github.com/cucluoting/leetcode/blob/master/147_InsertionSortList.md)
+- [148. Sort List](https://github.com/cucluoting/leetcode/blob/master/148_SortList.md)
+- [160. Intersection of Two Linked Lists](https://github.com/cucluoting/leetcode/blob/master/160_IntersectionOfTwoLinkedLists.md)
 
 ### 栈相关
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
+- [150. Evaluate Reverse Polish Notation](https://github.com/cucluoting/leetcode/blob/master/150_EvaluateReversePolishNotation.md)
+- [155. Min Stack](https://github.com/cucluoting/leetcode/blob/master/155_MinStack.md)
