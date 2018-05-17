@@ -46,6 +46,8 @@ leetcode solutions
 - [90. Subsets II](https://github.com/cucluoting/leetcode/blob/master/090_SubsetsII.md)
 - [79. Word Search](https://github.com/cucluoting/leetcode/blob/master/079_WordSearch.md)
 - [93. Restore IP Addresses](https://github.com/cucluoting/leetcode/blob/master/093_RestoreIPAddresses.md)
+- [131. Palindrome Partitioning](https://github.com/cucluoting/leetcode/blob/master/131_PalindromePartitioning.md)
+- [133. Clone Graph](https://github.com/cucluoting/leetcode/blob/master/133_CloneGraph.md)
 
 ### Breadth First Search
 - [130. Surrounded Regions](https://github.com/cucluoting/leetcode/blob/master/130_SurroundedRegions.md)
@@ -120,7 +122,8 @@ leetcode solutions
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
 - [89. Gray Code](https://github.com/cucluoting/leetcode/blob/master/089_GrayCode.md)
-
+- [136. Single Number](https://github.com/cucluoting/leetcode/blob/master/136_SingleNumber.md)
+- [137. Single Number II](https://github.com/cucluoting/leetcode/blob/master/137_SingleNumberII.md)
 
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
@@ -143,6 +146,7 @@ leetcode solutions
 - [88. Merge Sorted Array](https://github.com/cucluoting/leetcode/blob/master/088_MergeSortedArray.md)
 - [118. Pascal's Triangle](https://github.com/cucluoting/leetcode/blob/master/118_Pascal'sTriangle.md)
 - [119. Pascal's Triangle II](https://github.com/cucluoting/leetcode/blob/master/119_Pascal'sTriangleII.md)
+- [134. Gas Station](https://github.com/cucluoting/leetcode/blob/master/134_GasStation.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
@@ -153,6 +157,7 @@ leetcode solutions
 - [83. Remove Duplicates from Sorted List](https://github.com/cucluoting/leetcode/blob/master/083_RemoveDuplicatesFromSortedList.md)
 - [86. Partition List](https://github.com/cucluoting/leetcode/blob/master/086_PartitionList.md)
 - [92. Reverse Linked List II](https://github.com/cucluoting/leetcode/blob/master/092_ReverseLinkedListII.md)
+- [138. Copy List with Random Pointer](https://github.com/cucluoting/leetcode/blob/master/138_CopyListWithRandomPointer.md)
 
 ### 栈相关
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
