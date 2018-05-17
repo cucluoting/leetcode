@@ -2,16 +2,13 @@
 leetcode solutions  
 
 ### 比较有意思的题
-
 - [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005_LongestPalindromicSubstring.md) (Manacher's Algorithm
-
 - [22. Generate Parentheses](https://github.com/cucluoting/leetcode/blob/master/022_GenerateParentheses.md) (递归
-
 - [36. Valid Sudoku](https://github.com/cucluoting/leetcode/blob/master/036_ValidSudoku.md)
+- [166. Fraction to Recurring Decimal](https://github.com/cucluoting/leetcode/blob/master/166_FractionToRecurringDecimal.md)
 
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
-
 
 ### HashMap
 - [1. Two Sum](https://github.com/cucluoting/leetcode/blob/master/001_TwoSum.md)
@@ -72,12 +69,13 @@ leetcode solutions
 - [34. Search for a Range](https://github.com/cucluoting/leetcode/blob/master/034_SearchForARange.md)
 - [35. Search Insert Position](https://github.com/cucluoting/leetcode/blob/master/035_SearchInsertPosition.md)
 - [74. Search a 2D Matrix](https://github.com/cucluoting/leetcode/blob/master/074_SearchA2DMatrix.md)
-- [153. Find Minimum in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/153_FindMinimumInRotatedSortedArray.md)
 
 ### 二分法
 - [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
 - [69. Sqrt(x)](https://github.com/cucluoting/leetcode/blob/master/069_Sqrt(x).md)
 - [81. Search in Rotated Sorted Array II](https://github.com/cucluoting/leetcode/blob/master/081_SearchInRotatedSortedArrayII.md)
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/153_FindMinimumInRotatedSortedArray.md)
+- [162. Find Peak Element](https://github.com/cucluoting/leetcode/blob/master/162_FindPeakElement.md)
 
 ### 二叉树
 - [94. Binary Tree Inorder Traversal](https://github.com/cucluoting/leetcode/blob/master/094_BinaryTreeInorderTraversal.md)
@@ -117,6 +115,7 @@ leetcode solutions
 - [71. Simplify Path](https://github.com/cucluoting/leetcode/blob/master/071_SimplifyPath.md)
 - [125. Valid Palindrome](https://github.com/cucluoting/leetcode/blob/master/125_ValidPalindrome.md)
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
+- [165. Compare Version Numbers](https://github.com/cucluoting/leetcode/blob/master/165_CompareVersionNumbers.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
@@ -151,6 +150,8 @@ leetcode solutions
 - [118. Pascal's Triangle](https://github.com/cucluoting/leetcode/blob/master/118_Pascal'sTriangle.md)
 - [119. Pascal's Triangle II](https://github.com/cucluoting/leetcode/blob/master/119_Pascal'sTriangleII.md)
 - [134. Gas Station](https://github.com/cucluoting/leetcode/blob/master/134_GasStation.md)
+- [167. Two Sum II - Input array is sorted](https://github.com/cucluoting/leetcode/blob/master/167_TwoSumII-InputArrayIsSorted.md)
+- [169. Majority Element](https://github.com/cucluoting/leetcode/blob/master/169_MajorityElement.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
@@ -173,3 +174,6 @@ leetcode solutions
 - [20. Valid Parentheses](https://github.com/cucluoting/leetcode/blob/master/020_ValidParentheses.md)
 - [150. Evaluate Reverse Polish Notation](https://github.com/cucluoting/leetcode/blob/master/150_EvaluateReversePolishNotation.md)
 - [155. Min Stack](https://github.com/cucluoting/leetcode/blob/master/155_MinStack.md)
+
+### 其它
+- [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
