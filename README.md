@@ -130,6 +130,7 @@ leetcode solutions
 - [125. Valid Palindrome](https://github.com/cucluoting/leetcode/blob/master/125_ValidPalindrome.md)
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
 - [165. Compare Version Numbers](https://github.com/cucluoting/leetcode/blob/master/165_CompareVersionNumbers.md)
+- [224. Basic Calculator](https://github.com/cucluoting/leetcode/blob/master/224_BasicCalculator.md)
 - [227. Basic Calculator II](https://github.com/cucluoting/leetcode/blob/master/227_BasicCalculatorII.md)
 
 ### 数值相关
