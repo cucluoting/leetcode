@@ -112,6 +112,7 @@ leetcode solutions
 - [144. Binary Tree Preorder Traversal](https://github.com/cucluoting/leetcode/blob/master/144_BinaryTreePreorderTraversal.md)
 - [199. Binary Tree Right Side View](https://github.com/cucluoting/leetcode/blob/master/199_BinaryTreeRightSideView.md)
 - [222. Count Complete Tree Nodes](https://github.com/cucluoting/leetcode/blob/master/222_CountCompleteTreeNodes.md)
+- [230. Kth Smallest Element in a BST](https://github.com/cucluoting/leetcode/blob/master/230_KthSmallestElementInABST.md)
 
 ### Prefix Tree
 - [208. Implement Trie (Prefix Tree)](https://github.com/cucluoting/leetcode/blob/master/208_Implement_Trie(Prefix_Tree).md)
@@ -139,6 +140,7 @@ leetcode solutions
 - [43. Multiply Strings](https://github.com/cucluoting/leetcode/blob/master/043_MultiplyStrings.md)
 - [172. Factorial Trailing Zeroes](https://github.com/cucluoting/leetcode/blob/master/172_FactorialTrailingZeroes.md)
 - [204. Count Primes](https://github.com/cucluoting/leetcode/blob/master/204_CountPrimes.md)
+- [231. Power of Two](https://github.com/cucluoting/leetcode/blob/master/231_PowerOfTwo.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
