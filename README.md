@@ -114,6 +114,7 @@ leetcode solutions
 - [199. Binary Tree Right Side View](https://github.com/cucluoting/leetcode/blob/master/199_BinaryTreeRightSideView.md)
 - [222. Count Complete Tree Nodes](https://github.com/cucluoting/leetcode/blob/master/222_CountCompleteTreeNodes.md)
 - [230. Kth Smallest Element in a BST](https://github.com/cucluoting/leetcode/blob/master/230_KthSmallestElementInABST.md)
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/cucluoting/leetcode/blob/master/235_LowestCommonAncestorOfABinarySearchTree.md)
 
 ### Prefix Tree
 - [208. Implement Trie (Prefix Tree)](https://github.com/cucluoting/leetcode/blob/master/208_Implement_Trie(Prefix_Tree).md)
