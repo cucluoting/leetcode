@@ -87,6 +87,7 @@ leetcode solutions
 - [81. Search in Rotated Sorted Array II](https://github.com/cucluoting/leetcode/blob/master/081_SearchInRotatedSortedArrayII.md)
 - [153. Find Minimum in Rotated Sorted Array](https://github.com/cucluoting/leetcode/blob/master/153_FindMinimumInRotatedSortedArray.md)
 - [162. Find Peak Element](https://github.com/cucluoting/leetcode/blob/master/162_FindPeakElement.md)
+- [241. Different Ways to Add Parentheses](https://github.com/cucluoting/leetcode/blob/master/241_DifferentWaysToAddParentheses.md)
 
 ### 二叉树
 - [94. Binary Tree Inorder Traversal](https://github.com/cucluoting/leetcode/blob/master/094_BinaryTreeInorderTraversal.md)
