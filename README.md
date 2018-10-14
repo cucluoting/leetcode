@@ -138,6 +138,7 @@ leetcode solutions
 - [165. Compare Version Numbers](https://github.com/cucluoting/leetcode/blob/master/165_CompareVersionNumbers.md)
 - [224. Basic Calculator](https://github.com/cucluoting/leetcode/blob/master/224_BasicCalculator.md)
 - [227. Basic Calculator II](https://github.com/cucluoting/leetcode/blob/master/227_BasicCalculatorII.md)
+- [242. Valid Anagram](https://github.com/cucluoting/leetcode/blob/master/242_valid_anagram.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
