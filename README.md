@@ -118,6 +118,7 @@ leetcode solutions
 - [230. Kth Smallest Element in a BST](https://github.com/cucluoting/leetcode/blob/master/230_KthSmallestElementInABST.md)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/cucluoting/leetcode/blob/master/235_LowestCommonAncestorOfABinarySearchTree.md)
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/cucluoting/leetcode/blob/master/236_LowestCommonAncestorOfABinaryTree.md)
+- [257. Binary Tree Paths](https://github.com/cucluoting/leetcode/blob/master/257_BinaryTreePaths.md)
 
 ### Prefix Tree
 - [208. Implement Trie (Prefix Tree)](https://github.com/cucluoting/leetcode/blob/master/208_Implement_Trie(Prefix_Tree).md)
@@ -147,6 +148,7 @@ leetcode solutions
 - [172. Factorial Trailing Zeroes](https://github.com/cucluoting/leetcode/blob/master/172_FactorialTrailingZeroes.md)
 - [204. Count Primes](https://github.com/cucluoting/leetcode/blob/master/204_CountPrimes.md)
 - [231. Power of Two](https://github.com/cucluoting/leetcode/blob/master/231_PowerOfTwo.md)
+- [258. Add Digits](https://github.com/cucluoting/leetcode/blob/master/258_AddDigits.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
