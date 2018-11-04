@@ -149,6 +149,7 @@ leetcode solutions
 - [204. Count Primes](https://github.com/cucluoting/leetcode/blob/master/204_CountPrimes.md)
 - [231. Power of Two](https://github.com/cucluoting/leetcode/blob/master/231_PowerOfTwo.md)
 - [258. Add Digits](https://github.com/cucluoting/leetcode/blob/master/258_AddDigits.md)
+- [263. Ugly Number](https://github.com/cucluoting/leetcode/blob/master/263_UglyNumber.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
