@@ -150,6 +150,7 @@ leetcode solutions
 - [231. Power of Two](https://github.com/cucluoting/leetcode/blob/master/231_PowerOfTwo.md)
 - [258. Add Digits](https://github.com/cucluoting/leetcode/blob/master/258_AddDigits.md)
 - [263. Ugly Number](https://github.com/cucluoting/leetcode/blob/master/263_UglyNumber.md)
+- [264. Ugly Number II](https://github.com/cucluoting/leetcode/blob/master/264_UglyNumberII.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
