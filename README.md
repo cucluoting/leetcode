@@ -152,6 +152,7 @@ leetcode solutions
 - [263. Ugly Number](https://github.com/cucluoting/leetcode/blob/master/263_UglyNumber.md)
 - [264. Ugly Number II](https://github.com/cucluoting/leetcode/blob/master/264_UglyNumberII.md)
 - [268. Missing Number](https://github.com/cucluoting/leetcode/blob/master/268_MissingNumber.md)
+- [274. H-Index](https://github.com/cucluoting/leetcode/blob/master/274_H-Index.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
