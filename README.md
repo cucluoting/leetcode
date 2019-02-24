@@ -155,6 +155,7 @@ leetcode solutions
 - [264. Ugly Number II](https://github.com/cucluoting/leetcode/blob/master/264_UglyNumberII.md)
 - [268. Missing Number](https://github.com/cucluoting/leetcode/blob/master/268_MissingNumber.md)
 - [274. H-Index](https://github.com/cucluoting/leetcode/blob/master/274_H-Index.md)
+- [279. Perfect Squares](https://github.com/cucluoting/leetcode/blob/master/279_PerfectSquares.md)(四平方和定理）
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
