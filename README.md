@@ -198,6 +198,7 @@ leetcode solutions
 - [228. Summary Ranges](https://github.com/cucluoting/leetcode/blob/master/228_SummaryRanges.md)
 - [238. Product of Array Except Self](https://github.com/cucluoting/leetcode/blob/master/238_ProductOfArrayExceptSelf.md)
 - [283. Move Zeroes](https://github.com/cucluoting/leetcode/blob/master/283_MoveZeroes.md)
+- [287. Find the Duplicate Number](https://github.com/cucluoting/leetcode/blob/master/287_FindTheDuplicateNumber.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
