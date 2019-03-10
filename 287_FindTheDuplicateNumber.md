@@ -19,6 +19,8 @@ Output: 3
 3. Your runtime complexity should be less than O(n2).
 4. There is only one duplicate number in the array, but it could be repeated more than once.
 
+类似题目：[142. Linked List Cycle II](https://github.com/cucluoting/leetcode/blob/master/142_LinkedListCycleII.md)
+
 ```javascript
 /**
  * @param {number[]} nums
