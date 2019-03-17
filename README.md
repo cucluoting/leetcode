@@ -9,6 +9,7 @@ leetcode solutions
 - [202. Happy Number](https://github.com/cucluoting/leetcode/blob/master/202_HappyNumber.md)
 - [207. Course Schedule](https://github.com/cucluoting/leetcode/blob/master/207_CourseSchedule.md)（拓扑排序
 - [210. Course Schedule II](https://github.com/cucluoting/leetcode/blob/master/210_CourseScheduleII.md)
+- [289. Game of Life](https://github.com/cucluoting/leetcode/blob/master/289_GameOfLife.md)（康威生命游戏
 
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
