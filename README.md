@@ -10,6 +10,7 @@ leetcode solutions
 - [207. Course Schedule](https://github.com/cucluoting/leetcode/blob/master/207_CourseSchedule.md)（拓扑排序
 - [210. Course Schedule II](https://github.com/cucluoting/leetcode/blob/master/210_CourseScheduleII.md)
 - [289. Game of Life](https://github.com/cucluoting/leetcode/blob/master/289_GameOfLife.md)（康威生命游戏
+- [292. Nim Game](https://github.com/cucluoting/leetcode/blob/master/292_NimGame.md)
 
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
@@ -143,6 +144,7 @@ leetcode solutions
 - [224. Basic Calculator](https://github.com/cucluoting/leetcode/blob/master/224_BasicCalculator.md)
 - [227. Basic Calculator II](https://github.com/cucluoting/leetcode/blob/master/227_BasicCalculatorII.md)
 - [242. Valid Anagram](https://github.com/cucluoting/leetcode/blob/master/242_valid_anagram.md)
+- [290. Word Pattern](https://github.com/cucluoting/leetcode/blob/master/290_WordPattern.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
