@@ -11,6 +11,7 @@ leetcode solutions
 - [210. Course Schedule II](https://github.com/cucluoting/leetcode/blob/master/210_CourseScheduleII.md)
 - [289. Game of Life](https://github.com/cucluoting/leetcode/blob/master/289_GameOfLife.md)（康威生命游戏
 - [292. Nim Game](https://github.com/cucluoting/leetcode/blob/master/292_NimGame.md)
+- [299. Bulls and Cows](https://github.com/cucluoting/leetcode/blob/master/299_BullsAndCows.md)([Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows)
 
 ### 正则表达式应用
 - [151. Reverse Words in a String](https://github.com/cucluoting/leetcode/blob/master/151_ReverseWordsInAString.md)
