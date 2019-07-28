@@ -213,6 +213,7 @@ leetcode solutions
 - [287. Find the Duplicate Number](https://github.com/cucluoting/leetcode/blob/master/287_FindTheDuplicateNumber.md)
 - [303. Range Sum Query - Immutable](https://github.com/cucluoting/leetcode/blob/master/303_RangeSumQuery-Immutable.md)
 - [304. Range Sum Query 2D - Immutable](https://github.com/cucluoting/leetcode/blob/master/304_RangeSumQuery2D-Immutable.md)
+- [349. Intersection of Two Arrays](https://github.com/cucluoting/leetcode/blob/master/349_IntersectionOfTwoArrays.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
