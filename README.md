@@ -168,6 +168,8 @@ leetcode solutions
 - [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/cucluoting/leetcode/blob/master/309_BestTimeToBuyAndSellStockWithCooldown.md)
 - [326. Power of Three](https://github.com/cucluoting/leetcode/blob/master/326_PowerOfThree.md)
 - [342. Power of Four](https://github.com/cucluoting/leetcode/blob/master/342_PowerOfFour.md)
+- [367. Valid Perfect Square](https://github.com/cucluoting/leetcode/blob/master/367_ValidPerfectSquare.md)
+- [633. Sum of Square Numbers](https://github.com/cucluoting/leetcode/blob/master/633_SumOfSquareNumbers.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
