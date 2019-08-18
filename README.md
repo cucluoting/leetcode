@@ -84,6 +84,7 @@ leetcode solutions
 - [35. Search Insert Position](https://github.com/cucluoting/leetcode/blob/master/035_SearchInsertPosition.md)
 - [74. Search a 2D Matrix](https://github.com/cucluoting/leetcode/blob/master/074_SearchA2DMatrix.md)
 - [240. Search a 2D Matrix II](https://github.com/cucluoting/leetcode/blob/master/240_SearchA2DMatrixII.md)
+- [383. Ransom Note](https://github.com/cucluoting/leetcode/blob/master/383_RansomNote.md)
 
 ### 二分法
 - [50. Pow(x, n)](https://github.com/cucluoting/leetcode/blob/master/050_Pow(x%2C%20n).md)
