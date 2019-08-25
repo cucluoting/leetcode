@@ -150,6 +150,7 @@ leetcode solutions
 - [290. Word Pattern](https://github.com/cucluoting/leetcode/blob/master/290_WordPattern.md)
 - [344. Reverse String](https://github.com/cucluoting/leetcode/blob/master/344_ReverseString.md)
 - [345. Reverse Vowels of a String](https://github.com/cucluoting/leetcode/blob/master/345_ReverseVowelsOfAString.md)
+- [389. Find the Difference](https://github.com/cucluoting/leetcode/blob/master/389_FindTheDifference.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
