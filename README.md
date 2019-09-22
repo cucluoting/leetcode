@@ -41,6 +41,7 @@ leetcode solutions
 
 ### 排序
 - [75. Sort Colors](https://github.com/cucluoting/leetcode/blob/master/075_SortColors.md)
+- [406. Queue Reconstruction by Height](https://github.com/cucluoting/leetcode/blob/master/406_QueueReconstructionByHeight.md)
 
 ### Depth First Search
 - [17. Letter Combinations of a Phone Number](https://github.com/cucluoting/leetcode/blob/master/017_LetterCombinationsOfAPhoneNumber.md)
