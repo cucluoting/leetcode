@@ -29,6 +29,7 @@ leetcode solutions
 - [5. Longest Palindromic Substring](https://github.com/cucluoting/leetcode/blob/master/005_LongestPalindromicSubstring.md)
 - [9. Palindrome Number](https://github.com/cucluoting/leetcode/blob/master/009_PalindromeNumber.md)
 - [234. Palindrome Linked List](https://github.com/cucluoting/leetcode/blob/master/234_PalindromeLinkedList.md)
+- [409. Longest Palindrome](https://github.com/cucluoting/leetcode/blob/master/409_LongestPalindrome.md)
 
 ### 细节处理
 - [8. String to Integer (atoi)](https://github.com/cucluoting/leetcode/blob/master/008_StringToInteger(atoi).md)
