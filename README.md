@@ -57,6 +57,7 @@ leetcode solutions
 - [93. Restore IP Addresses](https://github.com/cucluoting/leetcode/blob/master/093_RestoreIPAddresses.md)
 - [131. Palindrome Partitioning](https://github.com/cucluoting/leetcode/blob/master/131_PalindromePartitioning.md)
 - [133. Clone Graph](https://github.com/cucluoting/leetcode/blob/master/133_CloneGraph.md)
+- [429. N-ary Tree Level Order Traversal](https://github.com/cucluoting/leetcode/blob/master/429_N-aryTreeLevelOrderTraversal.md)
 
 ### Breadth First Search
 - [130. Surrounded Regions](https://github.com/cucluoting/leetcode/blob/master/130_SurroundedRegions.md)
@@ -129,7 +130,6 @@ leetcode solutions
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/cucluoting/leetcode/blob/master/236_LowestCommonAncestorOfABinaryTree.md)
 - [257. Binary Tree Paths](https://github.com/cucluoting/leetcode/blob/master/257_BinaryTreePaths.md)
 - [404. Sum of Left Leaves](https://github.com/cucluoting/leetcode/blob/master/404_SumOfLeftLeaves.md)
-- [429. N-ary Tree Level Order Traversal](https://github.com/cucluoting/leetcode/blob/master/429_N-aryTreeLevelOrderTraversal.md)
 
 ### Prefix Tree
 - [208. Implement Trie (Prefix Tree)](https://github.com/cucluoting/leetcode/blob/master/208_Implement_Trie(Prefix_Tree).md)
