@@ -178,6 +178,7 @@ leetcode solutions
 - [342. Power of Four](https://github.com/cucluoting/leetcode/blob/master/342_PowerOfFour.md)
 - [367. Valid Perfect Square](https://github.com/cucluoting/leetcode/blob/master/367_ValidPerfectSquare.md)
 - [633. Sum of Square Numbers](https://github.com/cucluoting/leetcode/blob/master/633_SumOfSquareNumbers.md)
+- [412. Fizz Buzz](https://github.com/cucluoting/leetcode/blob/master/412_FizzBuzz.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
