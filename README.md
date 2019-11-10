@@ -58,6 +58,7 @@ leetcode solutions
 - [131. Palindrome Partitioning](https://github.com/cucluoting/leetcode/blob/master/131_PalindromePartitioning.md)
 - [133. Clone Graph](https://github.com/cucluoting/leetcode/blob/master/133_CloneGraph.md)
 - [429. N-ary Tree Level Order Traversal](https://github.com/cucluoting/leetcode/blob/master/429_N-aryTreeLevelOrderTraversal.md)
+- [437. Path Sum III](https://github.com/cucluoting/leetcode/blob/master/437_PathSumIII.md)
 
 ### Breadth First Search
 - [130. Surrounded Regions](https://github.com/cucluoting/leetcode/blob/master/130_SurroundedRegions.md)
