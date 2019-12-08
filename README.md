@@ -182,6 +182,7 @@ leetcode solutions
 - [412. Fizz Buzz](https://github.com/cucluoting/leetcode/blob/master/412_FizzBuzz.md)
 - [434. Number of Segments in a String](https://github.com/cucluoting/leetcode/blob/master/434_NumberOfSegmentsInAString.md)
 - [441. Arranging Coins](https://github.com/cucluoting/leetcode/blob/master/441_ArrangingCoins.md)
+- [447. Number of Boomerangs](https://github.com/cucluoting/leetcode/blob/master/447_NumberOfBoomerangs.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
