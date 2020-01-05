@@ -158,6 +158,7 @@ leetcode solutions
 - [389. Find the Difference](https://github.com/cucluoting/leetcode/blob/master/389_FindTheDifference.md)
 - [392. Is Subsequence](https://github.com/cucluoting/leetcode/blob/master/392_IsSubsequence.md)
 - [434. Number of Segments in a String](https://github.com/cucluoting/leetcode/blob/master/434_NumberOfSegmentsInAString.md)
+- [482. License Key Formatting](https://github.com/cucluoting/leetcode/blob/master/482_LicenseKeyFormatting.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
