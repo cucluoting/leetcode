@@ -186,6 +186,7 @@ leetcode solutions
 - [447. Number of Boomerangs](https://github.com/cucluoting/leetcode/blob/master/447_NumberOfBoomerangs.md)
 - [448. Find All Numbers Disappeared in an Array](https://github.com/cucluoting/leetcode/blob/master/448_FindAllNumbersDisappearedInAnArray.md)
 - [453. Minimum Moves to Equal Array Elements](https://github.com/cucluoting/leetcode/blob/master/453_MinimumMovesToEqualArrayElements.md)
+- [485. Max Consecutive Ones](https://github.com/cucluoting/leetcode/blob/master/485_MaxConsecutiveOnes.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
