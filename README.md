@@ -188,6 +188,7 @@ leetcode solutions
 - [453. Minimum Moves to Equal Array Elements](https://github.com/cucluoting/leetcode/blob/master/453_MinimumMovesToEqualArrayElements.md)
 - [485. Max Consecutive Ones](https://github.com/cucluoting/leetcode/blob/master/485_MaxConsecutiveOnes.md)
 - [492. Construct the Rectangle](https://github.com/cucluoting/leetcode/blob/master/492_ConstructTheRectangle.md)
+- [611. Valid Triangle Number](https://github.com/cucluoting/leetcode/blob/master/611_ValidTriangleNumber.md)
 
 ### 位运算
 - [29. Divide Two Integers](https://github.com/cucluoting/leetcode/blob/master/029_DivideTwoIntegers.md)
