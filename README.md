@@ -265,6 +265,9 @@ leetcode solutions
 - [150. Evaluate Reverse Polish Notation](https://github.com/cucluoting/leetcode/blob/master/150_EvaluateReversePolishNotation.md)
 - [155. Min Stack](https://github.com/cucluoting/leetcode/blob/master/155_MinStack.md)
 
+### 矩阵相关
+- [566. Reshape the Matrix](https://github.com/cucluoting/leetcode/blob/master/566_ReshapeTheMatrix.md)
+
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
 - [171. Excel Sheet Column Number](https://github.com/cucluoting/leetcode/blob/master/171_ExcelSheetColumnNumber.md)
