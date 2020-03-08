@@ -267,6 +267,7 @@ leetcode solutions
 
 ### 矩阵相关
 - [566. Reshape the Matrix](https://github.com/cucluoting/leetcode/blob/master/566_ReshapeTheMatrix.md)
+- [867. Transpose Matrix](https://github.com/cucluoting/leetcode/blob/master/867_TransposeMatrix.md)
 
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
