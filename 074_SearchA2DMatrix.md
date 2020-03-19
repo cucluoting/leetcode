@@ -41,3 +41,33 @@ var searchMatrix = function(matrix, target) {
   return false
 };
 ```
+
+二分法：
+```javascript
+/**
+ * @param {number[][]} matrix
+ * @param {number} target
+ * @return {boolean}
+ */
+var searchMatrix = function(matrix, target) {
+  let m = matrix.length
+  if (m === 0) return false
+  let n = matrix[0].length
+
+  let left = 0 
+  let right = m * n - 1
+  while (left <= right) {    
+    const index = Math.floor((left + right) / 2)
+    const num = matrix[Math.floor(index / n)][index % n]
+    if (num === target) {
+      return true
+    } else if (num < target) {
+      left = index + 1
+    } else {
+      right = index - 1
+    }
+  }
+  
+  return false
+};
+```
