@@ -50,9 +50,9 @@ var searchMatrix = function(matrix, target) {
  * @return {boolean}
  */
 var searchMatrix = function(matrix, target) {
-  let m = matrix.length
+  const m = matrix.length
   if (m === 0) return false
-  let n = matrix[0].length
+  const n = matrix[0].length
 
   let left = 0 
   let right = m * n - 1
