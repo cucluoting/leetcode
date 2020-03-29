@@ -270,6 +270,7 @@ leetcode solutions
 - [867. Transpose Matrix](https://github.com/cucluoting/leetcode/blob/master/867_TransposeMatrix.md)
 - [766. Toeplitz Matrix](https://github.com/cucluoting/leetcode/blob/master/766_ToeplitzMatrix.md)
 - [1380. Lucky Numbers in a Matrix](https://github.com/cucluoting/leetcode/blob/master/1380_LuckyNumbersInAMatrix.md)
+- [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/cucluoting/leetcode/blob/master/1351_CountNegativeNumbersInASortedMatrix.md)
 
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
