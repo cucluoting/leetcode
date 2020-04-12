@@ -272,6 +272,7 @@ leetcode solutions
 - [1380. Lucky Numbers in a Matrix](https://github.com/cucluoting/leetcode/blob/master/1380_LuckyNumbersInAMatrix.md)
 - [1351. Count Negative Numbers in a Sorted Matrix](https://github.com/cucluoting/leetcode/blob/master/1351_CountNegativeNumbersInASortedMatrix.md)
 - [840. Magic Squares In Grid](https://github.com/cucluoting/leetcode/blob/master/840_MagicSquaresInGrid.md)
+- [1030. Matrix Cells in Distance Order](https://github.com/cucluoting/leetcode/blob/master/1030_MatrixCellsInDistanceOrder.md)
 
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
