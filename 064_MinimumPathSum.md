@@ -28,3 +28,26 @@ var minPathSum = function(grid) {
   return tempSumArr[n - 1]
 };
 ```
+
+update:
+```javascript
+/**
+ * @param {number[][]} grid
+ * @return {number}
+ */
+var minPathSum = function(grid) {
+  const rows = grid.length
+  const cols = grid[0].length
+  const dist = new Array(grid[0].length).fill(0)
+  for (let row = rows - 1; row >= 0; row--) {
+    for (let col = cols - 1; col >= 0; col--) {
+      if (row === rows - 1) {
+        dist[col] = grid[row][col] + (col === cols - 1 ? 0 : dist[col + 1])
+      } else {
+        dist[col] = grid[row][col] + (col === cols - 1 ? dist[col] : Math.min(dist[col], dist[col + 1]))
+      }
+    }
+  }
+  return dist[0]
+};
+```
