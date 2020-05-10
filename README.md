@@ -210,8 +210,6 @@ leetcode solutions
 - [47. Permutations II](https://github.com/cucluoting/leetcode/blob/master/047_PermutationsII.md)
 - [60. Permutation Sequence](https://github.com/cucluoting/leetcode/blob/master/060_PermutationSequence.md)
 - [48. Rotate Image](https://github.com/cucluoting/leetcode/blob/master/048_RotateImage.md)
-- [54. Spiral Matrix](https://github.com/cucluoting/leetcode/blob/master/054_SpiralMatrix.md)
-- [59. Spiral Matrix II](https://github.com/cucluoting/leetcode/blob/master/059_SpiralMatrixII.md)
 - [56. Merge Intervals](https://github.com/cucluoting/leetcode/blob/master/056_MergeIntervals.md)
 - [66. Plus One](https://github.com/cucluoting/leetcode/blob/master/066_PlusOne.md)
 - [70. Climbing Stairs](https://github.com/cucluoting/leetcode/blob/master/070_ClimbingStairs.md)
@@ -266,6 +264,9 @@ leetcode solutions
 - [155. Min Stack](https://github.com/cucluoting/leetcode/blob/master/155_MinStack.md)
 
 ### 矩阵相关
+- [54. Spiral Matrix](https://github.com/cucluoting/leetcode/blob/master/054_SpiralMatrix.md)
+- [59. Spiral Matrix II](https://github.com/cucluoting/leetcode/blob/master/059_SpiralMatrixII.md)
+- [885. Spiral Matrix III](https://github.com/cucluoting/leetcode/blob/master/885_SpiralMatrixIII.md)
 - [566. Reshape the Matrix](https://github.com/cucluoting/leetcode/blob/master/566_ReshapeTheMatrix.md)
 - [867. Transpose Matrix](https://github.com/cucluoting/leetcode/blob/master/867_TransposeMatrix.md)
 - [766. Toeplitz Matrix](https://github.com/cucluoting/leetcode/blob/master/766_ToeplitzMatrix.md)
