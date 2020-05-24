@@ -275,6 +275,8 @@ leetcode solutions
 - [840. Magic Squares In Grid](https://github.com/cucluoting/leetcode/blob/master/840_MagicSquaresInGrid.md)
 - [1030. Matrix Cells in Distance Order](https://github.com/cucluoting/leetcode/blob/master/1030_MatrixCellsInDistanceOrder.md)
 - [542. 01 Matrix](https://github.com/cucluoting/leetcode/blob/master/542_01Matrix.md)
+- [1329. Sort the Matrix Diagonally](https://github.com/cucluoting/leetcode/blob/master/1329_SortTheMatrixDiagonally.md)
+- [861. Score After Flipping Matrix](https://github.com/cucluoting/leetcode/blob/master/861_ScoreAfterFlippingMatrix.md)
 
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
