@@ -75,6 +75,7 @@ leetcode solutions
 - [213. House Robber II](https://github.com/cucluoting/leetcode/blob/master/213_HouseRobberII.md)
 - [221. Maximal Square](https://github.com/cucluoting/leetcode/blob/master/221_MaximalSquare.md)
 - [300. Longest Increasing Subsequence](https://github.com/cucluoting/leetcode/blob/master/300_LongestIncreasingSubsequence.md)
+- [343. Integer Break](https://github.com/cucluoting/leetcode/blob/master/343_IntegerBreak.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
