@@ -78,6 +78,7 @@ leetcode solutions
 - [343. Integer Break](https://github.com/cucluoting/leetcode/blob/master/343_IntegerBreak.md)
 - [322. Coin Change](https://github.com/cucluoting/leetcode/blob/master/322_CoinChange.md)
 - [464. Can I Win](https://github.com/cucluoting/leetcode/blob/master/464_CanIWin.md)
+- [467. Unique Substrings in Wraparound String](https://github.com/cucluoting/leetcode/blob/master/467_UniqueSubstringsInWraparoundString.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
