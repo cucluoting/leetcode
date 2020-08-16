@@ -45,6 +45,8 @@ leetcode solutions
 - [406. Queue Reconstruction by Height](https://github.com/cucluoting/leetcode/blob/master/406_QueueReconstructionByHeight.md)
 - [524. Longest Word in Dictionary through Deleting](https://github.com/cucluoting/leetcode/blob/master/524_LongestWordInDictionaryThroughDeleting.md)
 - [853. Car Fleet](https://github.com/cucluoting/leetcode/blob/master/853_CarFleet.md)
+- [922. Sort Array By Parity II](https://github.com/cucluoting/leetcode/blob/master/922_SortArrayByParityII.md)
+- [976. Largest Perimeter Triangle](https://github.com/cucluoting/leetcode/blob/master/976_LargestPerimeterTriangle.md)
 
 ### Depth First Search
 - [17. Letter Combinations of a Phone Number](https://github.com/cucluoting/leetcode/blob/master/017_LetterCombinationsOfAPhoneNumber.md)
