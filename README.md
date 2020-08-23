@@ -47,6 +47,7 @@ leetcode solutions
 - [853. Car Fleet](https://github.com/cucluoting/leetcode/blob/master/853_CarFleet.md)
 - [922. Sort Array By Parity II](https://github.com/cucluoting/leetcode/blob/master/922_SortArrayByParityII.md)
 - [976. Largest Perimeter Triangle](https://github.com/cucluoting/leetcode/blob/master/976_LargestPerimeterTriangle.md)
+- [1054. Distant Barcodes](https://github.com/cucluoting/leetcode/blob/master/1054_DistantBarcodes.md)
 
 ### Depth First Search
 - [17. Letter Combinations of a Phone Number](https://github.com/cucluoting/leetcode/blob/master/017_LetterCombinationsOfAPhoneNumber.md)
