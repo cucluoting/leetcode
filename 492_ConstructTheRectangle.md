@@ -11,6 +11,7 @@ For a web developer, it is very important to know how to design a web page's siz
 You need to output the length L and the width W of the web page you designed in sequence.
 
 **Example:**
+```
 Input: 4
 Output: [2, 2]
 Explanation: The target area is 4, and all the possible ways to construct it are [1,4], [2,2], [4,1]. 
