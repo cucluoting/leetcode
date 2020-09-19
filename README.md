@@ -89,6 +89,7 @@ leetcode solutions
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
 - [55. Jump Game](https://github.com/cucluoting/leetcode/blob/master/055_JumpGame.md)
+- [45. Jump Game II](https://github.com/cucluoting/leetcode/blob/master/045_JumpGameII.md)
 - [121. Best Time to Buy and Sell Stock](https://github.com/cucluoting/leetcode/blob/master/121_BestTimeToBuyAndSellStock.md)
 - [122. Best Time to Buy and Sell Stock II](https://github.com/cucluoting/leetcode/blob/master/122_BestTimeToBuyAndSellStockII.md)
 
