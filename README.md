@@ -252,6 +252,7 @@ leetcode solutions
 - [495. Teemo Attacking](https://github.com/cucluoting/leetcode/blob/master/495_TeemoAttacking.md)
 - [442. Find All Duplicates in an Array](https://github.com/cucluoting/leetcode/blob/master/442_FindAllDuplicatesInAnArray.md)
 - [457. Circular Array Loop](https://github.com/cucluoting/leetcode/blob/master/457_CircularArrayLoop.md)
+- [561. Array Partition I](https://github.com/cucluoting/leetcode/blob/master/561_ArrayPartitionI.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
