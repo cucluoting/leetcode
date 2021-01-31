@@ -253,6 +253,7 @@ leetcode solutions
 - [442. Find All Duplicates in an Array](https://github.com/cucluoting/leetcode/blob/master/442_FindAllDuplicatesInAnArray.md)
 - [457. Circular Array Loop](https://github.com/cucluoting/leetcode/blob/master/457_CircularArrayLoop.md)
 - [561. Array Partition I](https://github.com/cucluoting/leetcode/blob/master/561_ArrayPartitionI.md)
+- [605. Can Place Flowers](https://github.com/cucluoting/leetcode/blob/master/605_CanPlaceFlowers.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
