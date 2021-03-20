@@ -296,6 +296,9 @@ leetcode solutions
 - [1329. Sort the Matrix Diagonally](https://github.com/cucluoting/leetcode/blob/master/1329_SortTheMatrixDiagonally.md)
 - [861. Score After Flipping Matrix](https://github.com/cucluoting/leetcode/blob/master/861_ScoreAfterFlippingMatrix.md)
 
+### 几何
+- [1266. Minimum Time Visiting All Points](https://github.com/cucluoting/leetcode/blob/master/1266_MinimumTimeVisitingAllPoints.md)
+
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
 - [171. Excel Sheet Column Number](https://github.com/cucluoting/leetcode/blob/master/171_ExcelSheetColumnNumber.md)
