@@ -300,6 +300,9 @@ leetcode solutions
 - [1266. Minimum Time Visiting All Points](https://github.com/cucluoting/leetcode/blob/master/1266_MinimumTimeVisitingAllPoints.md)
 - [1232. Check If It Is a Straight Line](https://github.com/cucluoting/leetcode/blob/master/1232_CheckIfItIsAStraightLine.md)
 
+### Random
+- [478. Generate Random Point in a Circle](https://github.com/cucluoting/leetcode/blob/master/478_Generate_Random_PointInACircle.md)
+
 ### 其它
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
 - [171. Excel Sheet Column Number](https://github.com/cucluoting/leetcode/blob/master/171_ExcelSheetColumnNumber.md)
