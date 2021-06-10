@@ -307,3 +307,4 @@ leetcode solutions
 - [168. Excel Sheet Column Title](https://github.com/cucluoting/leetcode/blob/master/168_ExcelSheetColumnTitle.md)
 - [171. Excel Sheet Column Number](https://github.com/cucluoting/leetcode/blob/master/171_ExcelSheetColumnNumber.md)
 - [179. Largest Number](https://github.com/cucluoting/leetcode/blob/master/179_LargestNumber.md)
+- [146. LRU Cache](https://github.com/cucluoting/leetcode/blob/master/146_LRUCache.md)
