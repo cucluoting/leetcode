@@ -110,6 +110,7 @@ leetcode solutions
 - [241. Different Ways to Add Parentheses](https://github.com/cucluoting/leetcode/blob/master/241_DifferentWaysToAddParentheses.md)
 - [275. H-Index II](https://github.com/cucluoting/leetcode/blob/master/275_H-Index_II.md)
 - [278. First Bad Version](https://github.com/cucluoting/leetcode/blob/master/278_FirstBadVersion.md)
+- [744. Find Smallest Letter Greater Than Target](https://github.com/cucluoting/leetcode/blob/master/744_FindSmallestLetterGreaterThanTarget.md)
 
 ### 二叉树
 - [94. Binary Tree Inorder Traversal](https://github.com/cucluoting/leetcode/blob/master/094_BinaryTreeInorderTraversal.md)
