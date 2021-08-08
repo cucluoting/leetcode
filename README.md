@@ -212,6 +212,7 @@ leetcode solutions
 - [190. Reverse Bits](https://github.com/cucluoting/leetcode/blob/master/190_ReverseBits.md)
 - [191. Number of 1 Bits](https://github.com/cucluoting/leetcode/blob/master/191_NumberOf1Bits.md)
 - [201. Bitwise AND of Numbers Range](https://github.com/cucluoting/leetcode/blob/master/201_BitwiseANDOfNumbersRange.md)
+- [397. Integer Replacement](https://github.com/cucluoting/leetcode/blob/master/397_IntegerReplacement.md)
 
 ### 数组相关
 - [15. 3Sum](https://github.com/cucluoting/leetcode/blob/master/015_3Sum.md)
