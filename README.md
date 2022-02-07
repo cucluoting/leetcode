@@ -51,6 +51,7 @@ leetcode solutions
 - [506. Relative Ranks](https://github.com/cucluoting/leetcode/blob/master/506_RelativeRanks.md)
 - [1337. The K Weakest Rows in a Matrix](https://github.com/cucluoting/leetcode/blob/master/1337_TheKWeakestRowsInAMatrix.md)
 - [324. Wiggle Sort II](https://github.com/cucluoting/leetcode/blob/master/324_WiggleSortII.md)
+- [347. Top K Frequent Elements](https://github.com/cucluoting/leetcode/blob/master/347_TopKFrequentElements.md)
 
 ### Depth First Search
 - [17. Letter Combinations of a Phone Number](https://github.com/cucluoting/leetcode/blob/master/017_LetterCombinationsOfAPhoneNumber.md)
