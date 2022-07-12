@@ -261,6 +261,7 @@ leetcode solutions
 - [457. Circular Array Loop](https://github.com/cucluoting/leetcode/blob/master/457_CircularArrayLoop.md)
 - [561. Array Partition I](https://github.com/cucluoting/leetcode/blob/master/561_ArrayPartitionI.md)
 - [605. Can Place Flowers](https://github.com/cucluoting/leetcode/blob/master/605_CanPlaceFlowers.md)
+- [950. Reveal Cards In Increasing Order](https://github.com/cucluoting/leetcode/blob/master/950_RevealCardsInIncreasingOrder.md)
 
 ### 链表相关
 - [2. Add Two Numbers](https://github.com/cucluoting/leetcode/blob/master/002_AddTwoNumbers.md)
