@@ -90,6 +90,7 @@ leetcode solutions
 - [464. Can I Win](https://github.com/cucluoting/leetcode/blob/master/464_CanIWin.md)
 - [467. Unique Substrings in Wraparound String](https://github.com/cucluoting/leetcode/blob/master/467_UniqueSubstringsInWraparoundString.md)
 - [174. Dungeon Game](https://github.com/cucluoting/leetcode/blob/master/174_DungeonGame.md)
+- [1162. As Far from Land as Possible](https://github.com/cucluoting/leetcode/blob/master/1162_AsFarFromLandAsPossible.md)
 
 ### 贪心算法
 - [11. Container With Most Water](https://github.com/cucluoting/leetcode/blob/master/011_ContainerWithMostWater.md)
