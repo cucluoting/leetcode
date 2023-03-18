@@ -54,29 +54,30 @@ Explanation: The maximum width exists in the second level with length 2 (3,2).
  * @param {TreeNode} root
  * @return {number}
  */
-var widthOfBinaryTree = function (root) {
-	let maxWidth = 0
-	const minIndex = []
+const widthOfBinaryTree = function (root) {
+  let maxWidth = 0;
+  const minIndex = [];
 
-	var dfs = function (node, depth, index) {
-		if (node === null) {
-			return
-		}
-		// 设置当前层的最开始位置
-		if (minIndex[depth] === undefined) {
-			minIndex.push(index)
-		}
+  var dfs = function (node, depth, index) {
+    if (node === null) {
+      return;
+    }
+    // 设置当前层的最开始位置
+    if (minIndex[depth] === undefined) {
+      minIndex.push(index);
+    }
 
-		// 当前位置和当前层最开始位置的距离
-		const newIndex = index - minIndex[depth]
-		
-		maxWidth = Math.max(newIndex + 1, maxWidth)
-		
-		dfs(node.left, depth + 1, 2 * newIndex)
-		dfs(node.right, depth + 1, 2 * newIndex + 1)
-	}
+    // 当前位置和当前层最开始位置的距离
+    const newIndex = index - minIndex[depth];
 
-	dfs(root, 0, 0)
-	return maxWidth
+    maxWidth = Math.max(newIndex + 1, maxWidth);
+
+    dfs(node.left, depth + 1, 2 * newIndex);
+    dfs(node.right, depth + 1, 2 * newIndex + 1);
+  };
+
+  dfs(root, 0, 0);
+  return maxWidth;
 };
+
 ```
