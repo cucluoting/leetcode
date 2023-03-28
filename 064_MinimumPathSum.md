@@ -51,3 +51,23 @@ var minPathSum = function(grid) {
   return dist[0]
 };
 ```
+
+```javascript
+/**
+ * @param {number[][]} grid
+ * @return {number}
+ */
+var minPathSum = function(grid) {
+  const dist = new Array(grid.length[0]).fill(0);
+  for(let row = 0; row < grid.length; row++) {
+    for(let col = 0; col < grid[0].length; col++) {
+      if (row === 0) {
+        dist[col] = (col === 0 ? 0 : dist[col - 1]) + grid[row][col];
+      } else {
+        dist[col] = (col === 0 ? dist[col] : Math.min(dist[col - 1], dist[col])) + grid[row][col];
+      }
+    }
+  }
+  return dist[dist.length - 1];
+};
+```
