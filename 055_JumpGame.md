@@ -17,13 +17,13 @@ A = `[3,2,1,0,4]`, return `false`.
  * @return {boolean}
  */
 var canJump = function(nums) {
-  if (nums.length === 0) return false
-  var reach = 0
-  var length = nums.length
-  for (var i = 0; i <= Math.min(reach, length - 1); i++) {
-    reach = Math.max(reach, nums[i] + i)
+  let k = 0;
+  for (let i = 0; i < nums.length; i++) {
+    if (i > k) {
+      return false;
+    }
+    k = Math.max(k, i + nums[i]);
   }
-  if (reach < length - 1) return false
-  return true
+  return true;
 };
 ```
