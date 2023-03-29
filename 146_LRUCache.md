@@ -57,7 +57,7 @@ LRUCache.prototype.get = function (key) {
   }
   const value = this.cacheMap.get(key);
   this.cacheMap.delete(key);
-  // 最常用的元素保持放在最前面
+  // 最常用的元素保持放在最后面
   this.cacheMap.set(key, value);
   return value;
 };
@@ -73,7 +73,7 @@ LRUCache.prototype.put = function (key, value) {
   }
   this.cacheMap.set(key, value);
   if (this.cacheMap.size > this.capacity) {
-    // 移除最不常用的元素
+    // 移除前面最不常用的元素
     this.cacheMap.delete(this.cacheMap.keys().next().value);
   }
 };
