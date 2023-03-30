@@ -47,3 +47,36 @@ var searchRange = function(nums, target) {
   return [begin, end]
 };
 ```
+
+```javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var searchRange = function(nums, target) {
+  const result = [-1, -1];
+  const start = getFirstPosition(nums, target);
+  const end = getFirstPosition(nums, target + 1) - 1;
+  if (start < nums.length && nums[start] === target) {
+    return [start, end];
+  }
+  
+  return [-1, -1];
+};
+
+var getFirstPosition = function(nums, target) {
+  let left = 0; 
+  let right = nums.length - 1;
+  let mid;
+  while(left <= right) {
+    mid = Math.floor((left + right) / 2);
+    if (nums[mid] < target) {
+      left = mid + 1;
+    } else {
+      right = mid - 1;
+    }
+  }
+  return left;
+}
+```
