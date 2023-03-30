@@ -41,3 +41,27 @@ var lengthOfLIS = function(nums) {
   return result
 };
 ```
+
+二分法实现时间复杂度O(nlogn)
+```javascript
+var lengthOfLIS = function(nums) {
+  const dp = [];
+  let left = 0;
+  let right = dp.length;
+  for(let i = 0; i < nums.length; i++) {
+    left = 0;
+    right = dp.length;
+    while(left < right) {
+      const mid = Math.floor((left + right) / 2);
+      // 寻找当前元素可以插入递增子序列dp的最小index
+      if (nums[i] > dp[mid]) {
+        left = mid + 1;
+      } else {
+        right = mid;
+      }
+    }
+    dp[left] = nums[i];
+  }
+  return dp.length;
+}
+```
