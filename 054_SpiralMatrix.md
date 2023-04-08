@@ -53,3 +53,26 @@ var spiralOrder = function(matrix) {
   return result
 };
 ```
+
+直接修改矩阵法：
+```javascript
+var spiralOrder = function(matrix) {
+  const result = [];
+  while(matrix.length) {
+    // 从左到右推入行
+    result.push(...matrix.shift());
+    // 从上到下推入最后一列
+    for (let i = 0; i < matrix.length; i++) {
+      const value = matrix[i].pop();
+      if (value) {
+        result.push(value);
+      }
+      // 旋转行元素
+      matrix[i].reverse();
+    }
+    // 旋转列元素
+    matrix.reverse();
+  }
+  return result;
+}
+```
