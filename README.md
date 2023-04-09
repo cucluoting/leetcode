@@ -181,6 +181,7 @@ leetcode solutions
 - [434. Number of Segments in a String](https://github.com/cucluoting/leetcode/blob/master/434_NumberOfSegmentsInAString.md)
 - [482. License Key Formatting](https://github.com/cucluoting/leetcode/blob/master/482_LicenseKeyFormatting.md)
 - [316. Remove Duplicate Letters](https://github.com/cucluoting/leetcode/blob/master/316_RemoveDuplicateLetters.md)
+- [394. Decode String](https://github.com/cucluoting/leetcode/blob/master/394_DecodeString.md)
 
 ### 数值相关
 - [7. Reverse Integer](https://github.com/cucluoting/leetcode/blob/master/007_ReverseInteger.md)
